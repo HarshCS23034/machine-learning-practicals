@@ -42,8 +42,7 @@ Each folder contains:
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- Scikit-lea
 
 ---
 
